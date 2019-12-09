@@ -380,10 +380,6 @@ public static String getRandomString(int length){
     return sb.toString();
 }
 
-public static final int MIN = 0;   //Define the random floor
-
-public static final int MAX = 2000000; //Define the random ceiling
-
 
 public static void main(String args[]){
 
